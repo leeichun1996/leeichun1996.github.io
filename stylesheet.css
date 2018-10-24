@@ -4,6 +4,8 @@ body {
 
 .lander {
 	color: #ECECEC;
+	font-family: sans-serif;
+	font-size: 24px;
 	text-align: center;
 	margin: 0;
 	position: absolute;
